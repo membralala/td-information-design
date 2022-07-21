@@ -1,0 +1,8 @@
+{
+    "Pflanzen":
+        {"Header": ["", "Stiele", "Blaetter", "Blueten", "Stachel", "Farbe Bluete"], 
+        "1": ["Kaktus", 1, 13, 7, 173, "pink"],
+        "2": ["Rose", 5, 20, 5, 31, "rot"],
+        "3": ["Palme", 1, 30, 0, 0, "-"]
+        }
+}
